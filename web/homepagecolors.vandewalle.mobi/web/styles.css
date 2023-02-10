@@ -1,0 +1,20 @@
+body {
+    color: #ccc;
+    background-color: black;
+
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+}
+
+.homepageimage img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+    }
+
+h3 {
+    font-size: 14px;
+}
